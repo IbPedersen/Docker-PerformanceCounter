@@ -5,7 +5,7 @@ Run
 
 `> build.cmd`
 
-to create Windows and ServerCore images with powershell scripts. Select either local version or AKS version. Modify environment variables in `build.cmd` if another version is needed.
+to create Windows and ServerCore images with powershell scripts. Modify `IMAGE_VERSION` environment variable in `build.cmd` if another image version (1903) is needed.
 
 Run 
 
